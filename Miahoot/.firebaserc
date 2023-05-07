@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "miahoot--damessis": {
+      "hosting": {
+        "Miahoot": [
+          "miahoot--damessis"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "miahoot--damessis"
+  }
+}
